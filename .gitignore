@@ -1,0 +1,16 @@
+# external Dep
+node_modules
+
+# lock files
+package-lock.json
+yarn.lock
+
+# Coverage reports
+coverage
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist/**/*
